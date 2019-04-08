@@ -1,0 +1,38 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+#navbar {
+display: flex ;
+flex-direction: row ;
+flex-wrap: wrap ;
+justify-content: space-around ;
+align-items: center ;
+align-content: center ;
+background-color: rgba(0,0,0,1) ;
+height: 50px ;
+font-family: 'Poiret One', cursive;
+}
+#wrapper {
+width: 100%;
+height: 100%;
+}
+
+a {
+text-decoration: none;
+color:white;
+font-family: ;
+font-size: 17px;
+}
+
+.fotoGrande {
+width: 100%;
+height: 95%;
+}
+
+.fotoAtleta {
+width: 100%;
+height: 100%;
+margin: auto;
+}
